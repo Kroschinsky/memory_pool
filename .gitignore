@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+#Project Files
+*.vcx*
+*.sln
+
+#Folders
+/out
+/debug
+/release
+/.vs
